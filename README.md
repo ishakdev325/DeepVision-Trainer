@@ -32,6 +32,6 @@ Supports custom datasets. Ideal for binary and multi-class classification tasks.
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/DeepVision-Trainer.git
+git clone https://github.com/ishakdev325/DeepVision-Trainer.git
 cd DeepVision-Trainer
 pip install -r requirements.txt
