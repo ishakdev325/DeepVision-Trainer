@@ -9,6 +9,12 @@ Trained to distinguish between diverse classes with precision, such as:
   <img src="https://www.freeiconspng.com/thumbs/cat-png/cat-png-17.png" alt="Cat" width="150"/>
 </p>
 
+## 🖼️ Test Example
+
+<p align="center">
+  <img src="test.png" alt="Test Image" width="300"/>
+</p>
+
 ## 🚀 Features
 
 - 🧠 Deep 5-layer CNN architecture  
